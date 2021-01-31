@@ -9,13 +9,13 @@ Hw2: Classification - Binary Income Prediction ([Report](https://github.com/josh
 
 Hw3: Convolutional Neural Network (CNN) - Image Classfication (**Top2 accuracy in class!**) ([Report](https://github.com/joshchang1112/ML2020SPRING/blob/master/hw3/report.pdf)) ([Kaggle Website](https://www.kaggle.com/c/ml2020spring-hw3))
 
-Hw4: Recurrent Neural Network (RNN) - Emotion Classification ([Report](https://github.com/joshchang1112/ML2020SPRING/blob/master/hw4/report.pdf)) [Kaggle Website](https://www.kaggle.com/c/ml2020spring-hw4))
+Hw4: Recurrent Neural Network (RNN) - Emotion Classification ([Report](https://github.com/joshchang1112/ML2020SPRING/blob/master/hw4/report.pdf)) ([Kaggle Website](https://www.kaggle.com/c/ml2020spring-hw4))
 
 Hw6: Adversarial Attack ([Report](https://github.com/joshchang1112/ML2020SPRING/blob/master/hw6/report.pdf))
 
 Hw7: Network Compression (**Top2 accuracy in class!**) ([Report](https://github.com/joshchang1112/ML2020SPRING/blob/master/hw7/report.pdf)) ([Kaggle Website](https://www.kaggle.com/c/ml2020spring-hw7))
 
-Hw8: Seq2seq for Machine Translation (**Best Report Award in class!**)([Report](https://github.com/joshchang1112/ML2020SPRING/blob/master/hw8/report.pdf))
+Hw8: Seq2seq for Machine Translation (**Best Report Award in class!**) ([Report](https://github.com/joshchang1112/ML2020SPRING/blob/master/hw8/report.pdf))
 
 Hw9: Unsupervised Learning - Dimension Reduction ([Report](https://github.com/joshchang1112/ML2020SPRING/blob/master/hw9/report.pdf)) ([Kaggle Website](https://www.kaggle.com/c/ml2020spring-hw9))
 
